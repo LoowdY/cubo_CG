@@ -61,3 +61,10 @@ Uma janela será aberta exibindo a nave espacial interativa em wireframe com um 
 - Outros parâmetros, como velocidade de rotação, translação e movimento manual, podem ser alterados diretamente em `main.py`.
 
 Sinta-se à vontade para expandir o projeto com novas funcionalidades, efeitos ou interações!
+
+
+
+# Desenvolvedores  
+- João Renan Lopes
+- Carlos Egger
+- Pedro Coimbra
